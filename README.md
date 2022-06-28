@@ -1,5 +1,5 @@
-# curso-ts
+# Curso TypeScript
 
- Following MS Learn Learning Path of building javascript applications with typescript
+Mi progreso siguiendo la ruta de aprendizaje de Microsoft Learn sobre la [Compilación de aplicaciones usando TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
 
-For running the code I'm using [Deno](https://deno.land), a modern JS and TS runtime for ease of use.
+Para correr el código estoy utilizando [Deno](https://deno.land), un entorno moderno de ejecución de JavaScript y TypeScript en lugar de Node.js, por facilidad de ejecución.
